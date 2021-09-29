@@ -1,2 +1,3 @@
 # Awesome-movies
-Created with CodeSandbox
+
+ReactJS recommendation app, that suggests you movies based on my rating
